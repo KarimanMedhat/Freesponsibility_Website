@@ -187,7 +187,7 @@ header nav .menu {
 /* start of landing */
 .landing {
     min-height: 100vh;
-    background-image: url(../background2.JPG);
+    background-image: url(background2.JPG);
     background-size: cover;
     background-color: rgb(19, 19, 19);
     position: relative;
